@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+}
+div.center{
+	text-align: center;
+	width: 100%;
+}
+form{
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 40%;
+}
+input{
+	text-align: center;
+	margin: 10px 0;
+	width: 100%;
+}
